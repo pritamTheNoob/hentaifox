@@ -25,11 +25,6 @@ ______________________________________________________
 
 git clone https://github.com/pritamTheNoob/hentaifox.git
 
-chmod +x requirements.txt
-
-pip3 install -r requirements.txt
-(if getting any error while executing the previous command the you can try these commands
-
 pip3 install requests
 
 pip3 install shutil
